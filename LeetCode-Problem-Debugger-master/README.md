@@ -249,8 +249,6 @@ The inner loop starts at index i instead of i+1, allowing the same element to pa
 
 **LeetCode Problem Debugger Agent**
 
-GitHub: https://github.com/Soham-Mathur/LeetCode-Problem-Debugger
-
 Evaluation: 10/10 test cases, 100% accuracy
 
 Architecture: 5-tool agent with metrics tracking and real code execution
